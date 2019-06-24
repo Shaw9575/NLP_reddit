@@ -1,0 +1,126 @@
+# first column denotes label used for classification task. Second column
+# denotes sublabel used as keywords for scraping data. Third column denotes the mode whoes candidates 
+# are 'hot', 'new', 'top', 'rising', 'keyword'. In 'keyword' mode, label is used to determine the 
+# subreddit in which sublabel is used as keyword. In other modes, sublabel is used as subreddit.
+# sports nba keyword
+# sports basketball keyword
+# sports football keyword
+# sports nfl keyword
+# sports tennis keyword
+# sports player keyword
+# sports league keyword
+# sports olympic keyword
+# sports sport keyword
+# sports team keyword
+# sports champion keyword
+# sports exercise keyword
+# sports events keyword
+# sports golf keyword
+# sports soccer keyword
+# sports boxing keyword
+# sports marathon keyword
+# sports skate keyword
+# sports volleybal keyword
+# sports swimming keyword
+# sports competition keyword
+# sports fake keyword
+# sports victory keyword
+# sports lose keyword
+# sports win keyword
+# sports insist keyword
+# sports work hard keyword
+# sports sports keyword
+# sports sports new
+# sports sports hot
+# sports sports top
+# sports sports rising
+# education school keyword
+# education teacher keyword
+# education student keyword
+# education high school keyword 
+# education junior school keyword 
+# education prime school keyword 
+# education homework keyword
+# education assignment keyword
+# education class keyword
+# education education keyword 
+# education university keyword
+# education college keyword
+# education GPA keyword
+# education school violence keyword
+# education undergraduate keyword
+# education PHD keyword
+# education bachelor keyword
+# education education keyword
+# education midterm keyword
+# education Piazza keyword
+# education plagiarism keyword
+# education libraries keyword
+# education course keyword
+# education academic keyword
+# education integrity keyword
+# education children keyword
+# education teenager keyword
+# education exam keyword
+# education learning keyword
+# education unequal keyword
+# education poor keyword
+# education talent keyword
+# education graduate keyword
+# education resource keyword
+# education secondary keyword
+# education department keyword
+# education educator keyword
+# education education new
+# education education hot
+# education education top
+# education education rising
+# politics politics keyword
+# politics vote keyword
+# politics president keyword
+# politics election keyword
+# politics republican keyword
+# politics democratic keyword
+# politics Trump keyword
+# politics government keyword
+# politics judge keyword
+# politics WhiteHouse keyword
+# politics congress keyword
+# politics International relations keyword
+# politics National security keyword
+# politics rights keyword
+# politics law keyword
+# politics poll keyword
+# politics unemployment rate keyword
+# politics campaign keyword
+# politics constituency keyword
+# politics federal keyword
+# politics Obama keyword
+# politics politics new
+# politics politics hot
+# politics politics top
+# politics politics rising
+# science biology keyword
+# science chemistry keyword
+# science physics keyword
+# science computer keyword
+# science web keyword
+# science machine learning keyword
+# science robot keyword
+# science nlp keyword
+# science geometry keyword
+# science events keyword
+# science discovery keyword
+# science geogrphy keyword
+# science mechanism keyword
+# science researcher keyword
+# science experiments keyword
+# science conference keyword
+# science paper keyword
+# science space keyword
+# science engineering keyword
+# science health keyword
+# science science keyword
+# science science hot
+# science science rising
+# science science top
